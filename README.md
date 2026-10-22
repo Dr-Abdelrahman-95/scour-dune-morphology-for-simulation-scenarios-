@@ -7,9 +7,13 @@ The dataset provides bed profiles representing scour and sediment deposition dow
 The dataset covers the following investigation scenarios:
 
 **Gate opening (Yg): 1.0, 2.0, 2.5, and 3.5 cm.**
+
 **Tailwater depth (Yt): 10, 17.5, and 25 cm.**
+
 **Median sediment diameter (D50): 0.10, 0.40, 0.76, and 1.00 mm.**
+
 **Submerged-vane height (Vh): 5, 7.5, and 10 cm.**
+
 **Submerged-vane orientation: 45°, 90°, and 135°.**
 
 **Purpose**
